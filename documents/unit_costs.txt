@@ -1,0 +1,31 @@
+**:scroll: Crafting List:**
+------------------
+
+**Ground Units:**
+------------------ 
+
+**cannons** - 5 Iron, 2 Lead, 3 Wood, 5.000 Manpower ¦ (Requires Mil. Tech 2)
+**field_artillery** - 7 Steel, 5 Artillery, 5.000 Manpower ¦ (Requires Mil. Tech 20)
+**modern_artillery** - 5 Steel, 10 Artillery, 5.000 Manpower ¦ (Requires Mil. Tech 30)
+
+**irregulars** - 5 Wood, 1 Iron, 50.000 Manpower ¦ Starting Unit
+**arquebusiers** - 2 Iron, 2 Lead, 50.000 Manpower ¦ (Requires Mil. Tech 3)
+**flintlock_infantry** - 1 Steel, 1 Wood, 1 Lead, 50.000 Manpower ¦ (Requires Mil. Tech 6)
+**pike_and_shot_infantry** - 2 Steel, 1 Wood, 3 Lead, 50.000 Manpower ¦ (Requires Mil. Tech 8)
+**musketeers** - 1 Steel, 3 Small Arms, 5 Uniforms, 2 Wood, 2 Lead, 50.000 Manpower ¦ (Requires Mil. Tech 11)
+**early_modern_infantry** - 2 Steel, 3 Small Arms, 5 Uniforms, 50.000 Manpower ¦ (Requires Mil. Tech 16)
+**napoleonic_infantry** - 1 Steel, 3 Small Arms, 5 Uniforms, 2 Wood, 2 Lead, 50.000 Manpower ¦ (Requires Mil. Tech 23)
+**riflemen** - 3 Steel, 3 Small Arms, 5 Uniforms, 1 Ammunition, 50.000 Manpower ¦ (Requires Mil. Tech 26)
+**infantry** - 5 Steel, 10 Small Arms, 10 Uniforms, 3 Ammunition, 50.000 Manpower ¦ (Requires Mil. Tech 36)
+
+**tanks** - 15 Steel, 5 Machine Parts, 7 Artillery, 5 Ammunition, 25.000 Manpower ¦ (Requires Mil. Tech 40)
+
+**Air Units:**
+------------------
+**fighters** - 10 Aluminium, 5 Machine Parts, 5 Ammunition, 3 Refined Petrol, 15.000 Manpower ¦ (Requires Mil. Tech 39)
+**bombers** - 15 Aluminium, 10 Machine Parts, 10 Ammunition, 5 Refined Petrol, 15.000 Manpower ¦ (Requires Mil. Tech 39)
+
+**Naval Units:**
+------------------
+
+**galleys** - 3 Wood, 1 Iron, 5.000 Manpower ¦ Starting Unit

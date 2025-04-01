@@ -1,0 +1,5 @@
+bot_prefix = "$";
+start_date = new Date(2020, 03, 26, 16, 09);
+turn_timer = 600;
+announcements_channel = "701470100674576475";
+authorised_role = "";

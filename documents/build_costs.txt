@@ -1,0 +1,25 @@
+**Raw Production Facilities:** - £5k each.
+------------------
+:cow2: **farms** - 15 Wood, 15 Stone ¦ 2 wheat, 1 meat per turn ¦ Starting building
+:fish: **fisheries** - 10 Wood, 5 Iron ¦ 1 meat per turn ¦ Starting building
+:axe: **lumberjacks** - 20 Wood, 5 Stone, 5 Iron ¦ 20 wood per turn ¦ Starting building
+:pick: **mines** - 20 Wood, 10 Iron ¦ 50 Mining Actions per turn ¦ Starting building
+:sheep: **pastures** - 10 Wood ¦ 2 meat per turn ¦ Starting building
+:leafy_green: **plantations** - 15 Wood, 5 Stone ¦ 15 cotton per turn ¦ Starting building
+
+**Processing Facilities:** - £5k each.
+------------------
+:factory: **aluminium_factories** - 15 Steel, 10 Concrete, 10 Machine Parts ¦ 2 Bauxite :arrow_right: 1 Aluminium ¦
+:canned_food: **ammunition_factories** - 10 Iron, 10 Stone, 5 Lumber, 5 Machine Parts ¦ 2 Sulfur/2 Lead, 1 Coal, 1 Iron :arrow_right: 50 Ammunition ¦
+:bricks: **concrete_factories** - 10 Steel, 15 Stone, 5 Machine Parts ¦ 2 Stone :arrow_right: 1 Concrete ¦
+:sweat_drops: **fertiliser_factories** - 15 Stone, 10 Lumber, 5 Iron ¦ 2 Sulphur :arrow_right: 1 Fertiliser ¦
+:gear: **machine_parts_factories** - 5 Steel, 10 Iron, 20 Stone ¦ 1 Steel, 2 Copper :arrow_right: 5 Machine Parts ¦
+:oil: **refineries** - 10 Steel, 15 Iron, 5 Coal ¦ 1 Petrol :arrow_right: 1 Refined Petrol ¦
+:evergreen_tree: **sawmills** - 10 Wood, 5 Iron ¦ 1 Wood :arrow_right: 1 Lumber ¦
+:guard: **small_arms_factories** - 15 Stone, 5 Steel, 10 Lumber ¦ 2 Lumber, 3 Steel :arrow_right: 20 Small Arms ¦
+:factory: **steelworks** - 20 Stone, 15 Iron ¦ 1 Coal, 1 Iron :arrow_right: 1 Steel ¦
+:package: **workshops** - 15 Stone, 10 Lumber, 5 Iron ¦ +1% Resource Gathering Efficiency ¦
+:shirt: **textile_mills** - 20 Iron, 10 Machine Parts ¦ 2 Cotton :arrow_right: 10 Uniforms, or 2 Cotton :arrow_right: 1 Textiles ¦
+
+**Research Buildings:**
+------------------

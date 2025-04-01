@@ -1,0 +1,12 @@
+:test_tube: **research_labs** - 15 Steel, 10 Concrete, 20 Machine Parts, 7500 Money ¦ +500 Research Points ¦ (Max: 10)
+:books: **universities** - 20 Lumber, 20 Stone, 15 Iron, 5000 Money ¦ +250 Research Points ¦ (Max: 20)
+:school: **schools** - 15 Lumber, 10 Stone, 1000 Money ¦ +50 Research Points ¦ (Max: 100)
+
+**Housing:**
+------------------
+
+:homes: **neighbourhoods** - 5 Lumber, 3 Iron, 1000 Money ¦ Houses 50k people
+:church: **towns** - 10 Lumber, 6 Iron, 2500 Money ¦ Houses 100k people
+:european_post_office: - **cities** - 
+:cityscape: - **metropolises** -
+:office: - **financial_districts** -

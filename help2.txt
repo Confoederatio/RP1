@@ -1,0 +1,13 @@
+
+**Help (Page 2):**
+
+```
+@transfer [num] <resources> - Transfer resources to the Antarctic. 10 Resources per icebreaker, per turn.
+@evacuate - Evacuate as many people as you can.
+@enact <law> - Enact specific laws or policies.
+
+@cook [num] - Cook 1000 rations for every 10 raw_food you have in your inventory.
+@refine [num] - Refine 1 steel for every 1 coal and 1 iron you have in your inventory.
+
+@auto-cook - Toggle auto-cook.
+```
